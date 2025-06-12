@@ -43,55 +43,41 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
-
-  <!-- MERN Stack -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
   <img width="12" />
-
-  <!-- Styling Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SCSS logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
   <img width="12" />
-
-  <!-- Framer Motion -->
-  <img src="https://skillicons.dev/icons?i=framer" height="40" alt="Framer Motion logo" />
-  <img width="12" />
-
-  <!-- Three.js (custom SVG fallback) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" height="40" alt="Three.js logo" />
-  <img width="12" />
-
-  <!-- Firebase -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase logo" />
   <img width="12" />
-
-  <!-- Cloudinary -->
-  <img src="https://api.iconify.design/simple-icons/cloudinary.svg" height="40" alt="Cloudinary logo" />
-  <img width="12" />
-
-  <!-- Strapi -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/strapi/strapi-plain.svg" height="40" alt="Strapi logo" />
-  <img width="12" />
-
-  <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
   <img width="12" />
-
-  <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
   <img width="12" />
-
-  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+   <!-- Text Badges for tools with no icons -->
+  <span style="display: inline-block; padding: 5px 10px; border-radius: 5px; background-color: #f1f1f1; font-family: monospace; font-size: 14px;">
+    Framer Motion
+  </span>
+  <img width="12" />
+  <span style="display: inline-block; padding: 5px 10px; border-radius: 5px; background-color: #f1f1f1; font-family: monospace; font-size: 14px;">
+    Three.js
+  </span>
+  <img width="12" />
+  <span style="display: inline-block; padding: 5px 10px; border-radius: 5px; background-color: #f1f1f1; font-family: monospace; font-size: 14px;">
+    Strapi
+  </span>
+  <img width="12" />
+  <span style="display: inline-block; padding: 5px 10px; border-radius: 5px; background-color: #f1f1f1; font-family: monospace; font-size: 14px;">
+    Cloudinary
+  </span>
 </div>
 
 
