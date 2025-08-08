@@ -25,7 +25,7 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-  I'm Junaid Akram, a passionate <strong>Web Developer</strong> and a <strong>3rd-year Software Engineering student</strong> at NUST.<br><br>
+  I'm Junaid Akram, a passionate <strong>Web Developer</strong> and a <strong>Final Year Software Engineering student</strong> at NUST.<br><br>
   - 🔭 Currently building Accessible, Responsive UIs and Full-Stack Web Apps.<br>
   - 📚 Learning in Progress: Next.js, Typescript, Three.js, Systems Design and Performance Optimization.<br>
   - ⚡ Fun fact: Came for hover effects, Stayed for spinning 3D Cubes.
