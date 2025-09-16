@@ -26,8 +26,8 @@
 
 <p align="left">
   I'm Junaid Akram, a passionate <strong>Web Developer</strong> and a <strong>Final Year Software Engineering student</strong> at NUST.<br><br>
-  - 🔭 Currently building Accessible, Responsive UIs and Full-Stack Web Apps using MERN Stack.<br>
-  - 📚 Learning in Progress: Next.js, Typescript, Three.js, Systems Design and Performance Optimization.<br>
+  - 🔭 Currently building Accessible, Responsive UIs and Full-Stack Web Apps using MERN Stack, Next.JS & TypeScript.<br>
+  - 📚 Learning in Progress: Three.js<br>
   - ⚡ Fun fact: Came for hover effects, Stayed for spinning 3D Cubes.
 </p>
 
