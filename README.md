@@ -35,50 +35,37 @@
 
 <h3 align="left">🛠 Languages & Tools</h3>
 
-<div align="left">
-  <!-- Web Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SCSS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-   <!-- Text Badges for tools with no icons -->
-  <span style="display: inline-block; padding: 5px 10px; border-radius: 5px; background-color: #f1f1f1; font-family: monospace; font-size: 14px;">
-    Framer Motion
-  </span>
-  <img width="12" />
-  <span style="display: inline-block; padding: 5px 10px; border-radius: 5px; background-color: #f1f1f1; font-family: monospace; font-size: 14px;">
-    Three.js
-  </span>
-  <img width="12" />
-  <span style="display: inline-block; padding: 5px 10px; border-radius: 5px; background-color: #f1f1f1; font-family: monospace; font-size: 14px;">
-    Strapi
-  </span>
-  <img width="12" />
-  <span style="display: inline-block; padding: 5px 10px; border-radius: 5px; background-color: #f1f1f1; font-family: monospace; font-size: 14px;">
-    Cloudinary
-  </span>
-</div>
+</div><br /><br />
+
+<table>
+  <td>
+    <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:50px;" />
+    <p><strong>🎨 Front</strong></p>
+    <ul>
+      <li>ReactJS, JavaScript, NextJS, TypeScript</li>
+      <li>Tailwind, Sass, Styled-Components, Framer-Motion, Shadcn/ui</li>
+      <li>SEO, Accessibility, Copywriting</li>
+    </ul>
+    <br /><p><strong>🛠 Back</strong></p>
+    <ul>
+      <li>Node.js, Express, NextJS</li>
+      <li>MongoDB, Supabase</li>
+      <li>Cloudinary, Firebase</li>
+    </ul>
+    <br /><p><strong>📁 More</strong></p>
+    <ul>
+      <li>ThreeJS</li>
+      <li>Strapi</li>
+      <li>Vapi</li>
+      <li>ImageKit</li>
+      <li>Git, Docker</li>
+    </ul>
+    <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:40px" />
+  </td>
+  <td>
+    <img src="https://i.postimg.cc/SKTNNq7T/goku.png"/>
+  </td>
+</table>
 
 
 ###
