@@ -49,7 +49,7 @@
     <br /><p><strong>🛠 Back</strong></p>
     <ul>
       <li>Node.js, Express, NextJS</li>
-      <li>MongoDB, Supabase</li>
+      <li>MySQL, MongoDB, Supabase</li>
       <li>Cloudinary, Firebase</li>
     </ul>
     <br /><p><strong>📁 More</strong></p>
