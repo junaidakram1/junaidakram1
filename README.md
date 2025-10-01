@@ -25,7 +25,7 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-  I'm Junaid Akram, a passionate <strong>Web Developer</strong> and a <strong>Final Year Software Engineering student</strong> at NUST.<br><br>
+  I'm Junaid Akram, a passionate <strong>Web Developer</strong> and a <strong>Final Year Software Engineering student</strong> at NUST, Pakistan.<br><br>
   - 🔭 Currently building Accessible, Responsive UIs and Full-Stack Web Apps using MERN Stack, Next.JS & TypeScript.<br>
   - 📚 Learning in Progress: Three.js<br>
   - ⚡ Fun fact: Came for hover effects, Stayed for spinning 3D Cubes.
@@ -43,8 +43,8 @@
     <p><strong>🎨 Front</strong></p>
     <ul>
       <li>ReactJS, JavaScript, NextJS, TypeScript</li>
-      <li>Tailwind, Sass, Styled-Components, Framer-Motion, Shadcn/ui</li>
-      <li>SEO, Accessibility, Copywriting</li>
+      <li>Tailwind, Sass, Styled-Components, Framer-Motion, Shadcn/ui, MUI</li>
+      <li>Accessibility, Copywriting</li>
     </ul>
     <br /><p><strong>🛠 Back</strong></p>
     <ul>
@@ -58,6 +58,10 @@
       <li>Strapi</li>
       <li>Vapi</li>
       <li>ImageKit</li>
+      <li>WebSockets</li> 
+      <li>Kafka</li>
+      <li>Sentry</li>
+      <li>Clerk (Auth + Billing)</li>
       <li>Git, Docker</li>
     </ul>
     <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:40px" />
